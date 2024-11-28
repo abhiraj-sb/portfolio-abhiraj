@@ -16,7 +16,7 @@ export default function Home() {
             Abhiraj Sakargaye
           </h1>
           <p className="text-lg sm:text-xl text-muted-foreground">
-            Evolving into a Product Manager
+            Product Manager
           </p>
         </header>
         <About />
