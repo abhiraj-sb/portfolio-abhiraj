@@ -6,8 +6,8 @@ import { Navbar } from "@/components/navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "John Doe - Product Management Intern",
-  description: "Portfolio of John Doe, a passionate product management intern",
+  title: "Abhiraj Sakargaye - Product Management Intern",
+  description: "Product management intern",
 };
 
 export default function RootLayout({
