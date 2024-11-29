@@ -16,28 +16,11 @@ export function Projects() {
       <div className="grid gap-4 md:grid-cols-2">
         <Card>
           <CardHeader>
-            <CardTitle>Online Lead-Finder Tool</CardTitle>
-            <CardDescription>
-              Led the development of a real-time analytics dashboard
-            </CardDescription>
-          </CardHeader>
-          <CardContent>
-            <Link
-              href="https://flint-humor-1da.notion.site/Lead-Finder-Tool-ReachInbox-4c3c283fd587431195ba029689179be3"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button variant="outline" className="w-full">
-                <ExternalLink className="mr-2 h-4 w-4" /> View on Notion
-              </Button>
-            </Link>
-          </CardContent>
-        </Card>
-        <Card>
-          <CardHeader>
             <CardTitle>ROI Calculator</CardTitle>
             <CardDescription>
-              Led the development of a real-time analytics dashboard
+              Outlined the steps and considerations involved in developing a
+              Return on Investment calculator and formulate a Go-To-Market
+              strategy for promoting and launching the calculator.
             </CardDescription>
           </CardHeader>
           <CardContent>
@@ -54,9 +37,33 @@ export function Projects() {
         </Card>
         <Card>
           <CardHeader>
+            <CardTitle>Online Lead-Finder Tool</CardTitle>
+            <CardDescription>
+              Created a highly intuitive and easy-to-use Lead Finder tool and
+              help the existing and future user base in curating and customizing
+              leads based on their requirements.
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <Link
+              href="https://flint-humor-1da.notion.site/Lead-Finder-Tool-ReachInbox-4c3c283fd587431195ba029689179be3"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button variant="outline" className="w-full">
+                <ExternalLink className="mr-2 h-4 w-4" /> View on Notion
+              </Button>
+            </Link>
+          </CardContent>
+        </Card>
+        <Card>
+          <CardHeader>
             <CardTitle>Wizdom App Improvement</CardTitle>
             <CardDescription>
-              Designed and prototyped a productivity app for students
+              Identified three new features and select one to implement in the
+              Wizdom App. Write Product Requirement Document for the selected
+              feature and outlined the metrics and tools used to measure this
+              effectivess of this feature.
             </CardDescription>
           </CardHeader>
           <CardContent>
@@ -75,7 +82,10 @@ export function Projects() {
           <CardHeader>
             <CardTitle>Marketplace for Designers</CardTitle>
             <CardDescription>
-              Designed and prototyped a productivity app for students
+              Plan for creating a product document and user story for a
+              marketplace for designers. This document encapsulates the planning
+              required by Ctruh to create a marketplace product that will
+              empower designers to market and showcase their design work.
             </CardDescription>
           </CardHeader>
           <CardContent>
